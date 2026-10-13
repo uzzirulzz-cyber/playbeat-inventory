@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "count": 230,
+  "date": "2026-10-13",
+  "count": 231,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -172,7 +172,7 @@
       "repository": "advc",
       "github_url": "https://github.com/uzzirulzz-cyber/advc",
       "size_kb": 5939,
-      "manifest": true,
+      "manifest": false,
       "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
@@ -250,7 +250,7 @@
       "github_url": "https://github.com/uzzirulzz-cyber/bew",
       "size_kb": 1637,
       "manifest": false,
-      "readme": true,
+      "readme": false,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
@@ -447,6 +447,17 @@
       "repository": "ccht",
       "github_url": "https://github.com/uzzirulzz-cyber/ccht",
       "size_kb": 16,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "centercommand",
+      "github_url": "https://github.com/uzzirulzz-cyber/centercommand",
+      "size_kb": 714,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1810,7 +1821,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 77,
+      "size_kb": 84,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
