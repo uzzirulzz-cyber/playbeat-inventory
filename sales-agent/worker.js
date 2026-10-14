@@ -10,7 +10,7 @@ const products=[
 ].map(([title,repo,url,price,category])=>({title,repo,url,price,category,status:"UNVERIFIED"}));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const json=(x,status=200)=>new Response(JSON.stringify(x),{status,headers:{"content-type":"application/json; charset=utf-8","cache-control":"public,max-age=180","access-control-allow-origin":"*","x-content-type-options":"nosniff"}});
-export default {async fetch(req){
+export default {async fetch(req,env){
 const url=new URL(req.url);
 if(url.pathname==="/inquiry"&&req.method==="POST"){
  if(!env.SALES_DB)return json({error:"Database not configured"},503);
@@ -21,7 +21,7 @@ if(url.pathname==="/inquiry"&&req.method==="POST"){
  const take=(name,max=250)=>String(data.get(name)||"").trim().slice(0,max);
  if(take("website"))return Response.redirect(url.origin+"/?received=1",303);
  const buyer=take("buyer_name",100),email=take("email",200).toLowerCase(),asset=take("asset",100);
- if(!buyer||!/^\\S+@\\S+\\.\\S+$/.test(email)||!products.some(p=>p.title===asset)||take("consent")!=="yes")return json({error:"Valid name, email, asset and privacy consent are required"},400);
+ if(!buyer||!/^\S+@\S+\.\S+$/.test(email)||!products.some(p=>p.title===asset)||take("consent")!=="yes")return json({error:"Valid name, email, asset and privacy consent are required"},400);
  const id=crypto.randomUUID();
  try {await env.SALES_DB.prepare("INSERT INTO leads(id,asset,buyer_name,email,company,budget,acquisition_type,notes,consent) VALUES (?,?,?,?,?,?,?,?,1)").bind(id,asset,buyer,email,take("company",140),take("budget",100),take("acquisition_type",80),take("notes",1500)).run();}
  catch {return json({error:"Unable to store inquiry"},503);}
