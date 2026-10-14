@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "count": 231,
+  "date": "2026-10-14",
+  "count": 233,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -149,7 +149,7 @@
     {
       "repository": "adfmenwew",
       "github_url": "https://github.com/uzzirulzz-cyber/adfmenwew",
-      "size_kb": 886,
+      "size_kb": 952,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -172,7 +172,7 @@
       "repository": "advc",
       "github_url": "https://github.com/uzzirulzz-cyber/advc",
       "size_kb": 5939,
-      "manifest": false,
+      "manifest": true,
       "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
@@ -250,7 +250,7 @@
       "github_url": "https://github.com/uzzirulzz-cyber/bew",
       "size_kb": 1637,
       "manifest": false,
-      "readme": false,
+      "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
@@ -788,6 +788,17 @@
       "repository": "docs",
       "github_url": "https://github.com/uzzirulzz-cyber/docs",
       "size_kb": 6391,
+      "manifest": false,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "ebuzz",
+      "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
+      "size_kb": 12387,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1370,7 +1381,7 @@
     {
       "repository": "new-ne2",
       "github_url": "https://github.com/uzzirulzz-cyber/new-ne2",
-      "size_kb": 473,
+      "size_kb": 530,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1821,7 +1832,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 84,
+      "size_kb": 85,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2245,6 +2256,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "streabuzzplaybeat",
+      "github_url": "https://github.com/uzzirulzz-cyber/streabuzzplaybeat",
+      "size_kb": 6275,
+      "manifest": false,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
       "sale_ready": "NO - requires human verification"
     },
     {
