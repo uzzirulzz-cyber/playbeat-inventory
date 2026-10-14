@@ -2,3 +2,8 @@ name = "playbeat-sales-agent"
 main = "worker.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
+
+[[d1_databases]]
+binding = "SALES_DB"
+database_name = "playbeat-sales-crm"
+database_id = "efaffa6a-34db-4e8d-8656-cd07fe1c2f37"
