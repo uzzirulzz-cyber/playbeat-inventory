@@ -1,0 +1,112 @@
+{
+  "generated_utc": "2026-10-15T08:22:29.560860+00:00",
+  "audit_date": "2026-10-15",
+  "inventory_count": 236,
+  "policy": "Listing drafts only. Never assume published, verified or sold.",
+  "listings": [
+    {
+      "asset": "PlayBeat Digital",
+      "repository": "izoko",
+      "audit_status": "TRIAGE_PENDING",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "USD 34,500 provisional",
+      "listing_copy": "PlayBeat Digital \u2014 Digital commerce storefront and administrative tooling. GitHub repository: https://github.com/uzzirulzz-cyber/izoko. Asking: USD 34,500 provisional. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "PlayBeat Live",
+      "repository": "playbeat.live",
+      "audit_status": "TRIAGE_PENDING",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "PlayBeat Live \u2014 Streaming catalog and player software; media rights excluded. GitHub repository: https://github.com/uzzirulzz-cyber/playbeat.live. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "MakeThisDeal",
+      "repository": "makethisdeal.biz",
+      "audit_status": "REPOSITORY_MISSING_OR_EMPTY",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "MakeThisDeal \u2014 Deals and business marketplace codebase. GitHub repository: https://github.com/uzzirulzz-cyber/makethisdeal.biz. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "MagXTV",
+      "repository": "magxtv.click",
+      "audit_status": "REPOSITORY_MISSING_OR_EMPTY",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "MagXTV \u2014 Sports portal interface; broadcast rights excluded. GitHub repository: https://github.com/uzzirulzz-cyber/magxtv.click. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "Lead Pulse CRM",
+      "repository": "eaedpulseplus",
+      "audit_status": "REPOSITORY_MISSING_OR_EMPTY",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "Lead Pulse CRM \u2014 Lead pipeline and customer relationship tooling. GitHub repository: https://github.com/uzzirulzz-cyber/eaedpulseplus. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "PropertyAtlas",
+      "repository": "estate",
+      "audit_status": "TRIAGE_PENDING",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "PropertyAtlas \u2014 Property management software. GitHub repository: https://github.com/uzzirulzz-cyber/estate. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "Automotive Dealership",
+      "repository": "dealershipautomotive",
+      "audit_status": "TRIAGE_PENDING",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "Automotive Dealership \u2014 Dealership administration software. GitHub repository: https://github.com/uzzirulzz-cyber/dealershipautomotive. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    },
+    {
+      "asset": "Enterprise Suite",
+      "repository": "enterprise-",
+      "audit_status": "TRIAGE_PENDING",
+      "listing_status": "DRAFT_REVIEW_REQUIRED",
+      "asking": "Offers invited",
+      "listing_copy": "Enterprise Suite \u2014 Enterprise management codebase. GitHub repository: https://github.com/uzzirulzz-cyber/enterprise-. Asking: Offers invited. Preliminary listing only; installation, functionality, revenue, ownership, third-party licensing and transfer rights have not been verified. All transactions require written agreement, approved escrow and seller approval. Contact: playbeatdigital@gmail.com",
+      "published_url": "",
+      "buyer_contacts": 0,
+      "qualified_leads": 0,
+      "offers": 0,
+      "closed_sales": 0
+    }
+  ]
+}
