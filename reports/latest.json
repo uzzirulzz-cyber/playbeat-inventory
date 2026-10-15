@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-14",
-  "count": 233,
+  "date": "2026-10-15",
+  "count": 236,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -172,6 +172,17 @@
       "repository": "advc",
       "github_url": "https://github.com/uzzirulzz-cyber/advc",
       "size_kb": 5939,
+      "manifest": true,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "aiystic",
+      "github_url": "https://github.com/uzzirulzz-cyber/aiystic",
+      "size_kb": 4374,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -798,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 12387,
+      "size_kb": 21940,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1346,6 +1357,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "mysticai",
+      "github_url": "https://github.com/uzzirulzz-cyber/mysticai",
+      "size_kb": 50,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "nbadcv",
       "github_url": "https://github.com/uzzirulzz-cyber/nbadcv",
       "size_kb": 62861,
@@ -1832,7 +1854,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 85,
+      "size_kb": 130,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2418,6 +2440,17 @@
       "size_kb": 1768,
       "manifest": true,
       "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "voiceai",
+      "github_url": "https://github.com/uzzirulzz-cyber/voiceai",
+      "size_kb": 4291,
+      "manifest": true,
+      "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
