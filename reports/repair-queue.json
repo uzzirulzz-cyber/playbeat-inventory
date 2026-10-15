@@ -1,0 +1,2480 @@
+{
+  "source_audit_date": "2026-10-14",
+  "generated_at": "2026-10-15",
+  "total_manifest_candidates": 139,
+  "note": "Scores rank triage priority, not percent complete; all products require independent build, demo, rights, and transfer verification.",
+  "candidates": [
+    {
+      "repository": "OmniRoute",
+      "github_url": "https://github.com/uzzirulzz-cyber/OmniRoute",
+      "priority_score_not_completion": 75,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "UPSTREAM_LICENSE_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "izoko",
+      "github_url": "https://github.com/uzzirulzz-cyber/izoko",
+      "priority_score_not_completion": 70,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "livetv",
+      "github_url": "https://github.com/uzzirulzz-cyber/livetv",
+      "priority_score_not_completion": 70,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "adfmenwew",
+      "github_url": "https://github.com/uzzirulzz-cyber/adfmenwew",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "advanceplaybeat",
+      "github_url": "https://github.com/uzzirulzz-cyber/advanceplaybeat",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "advc",
+      "github_url": "https://github.com/uzzirulzz-cyber/advc",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "aPYA",
+      "github_url": "https://github.com/uzzirulzz-cyber/aPYA",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "augguest22",
+      "github_url": "https://github.com/uzzirulzz-cyber/augguest22",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "brockexchange.quest",
+      "github_url": "https://github.com/uzzirulzz-cyber/brockexchange.quest",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "cbcc",
+      "github_url": "https://github.com/uzzirulzz-cyber/cbcc",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "centercommand",
+      "github_url": "https://github.com/uzzirulzz-cyber/centercommand",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "CodeIgniter4ghj",
+      "github_url": "https://github.com/uzzirulzz-cyber/CodeIgniter4ghj",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "creedbixby",
+      "github_url": "https://github.com/uzzirulzz-cyber/creedbixby",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "customfd",
+      "github_url": "https://github.com/uzzirulzz-cyber/customfd",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ddft",
+      "github_url": "https://github.com/uzzirulzz-cyber/ddft",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dealone1",
+      "github_url": "https://github.com/uzzirulzz-cyber/dealone1",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "df3222",
+      "github_url": "https://github.com/uzzirulzz-cyber/df3222",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "estate",
+      "github_url": "https://github.com/uzzirulzz-cyber/estate",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "IPTV",
+      "github_url": "https://github.com/uzzirulzz-cyber/IPTV",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "jazzcash",
+      "github_url": "https://github.com/uzzirulzz-cyber/jazzcash",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "MagxTV-sports-streaming-w",
+      "github_url": "https://github.com/uzzirulzz-cyber/MagxTV-sports-streaming-w",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "malik",
+      "github_url": "https://github.com/uzzirulzz-cyber/malik",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nbadcv",
+      "github_url": "https://github.com/uzzirulzz-cyber/nbadcv",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "new",
+      "github_url": "https://github.com/uzzirulzz-cyber/new",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newaa1",
+      "github_url": "https://github.com/uzzirulzz-cyber/newaa1",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newbrock",
+      "github_url": "https://github.com/uzzirulzz-cyber/newbrock",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newmonday",
+      "github_url": "https://github.com/uzzirulzz-cyber/newmonday",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newmonday22",
+      "github_url": "https://github.com/uzzirulzz-cyber/newmonday22",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newtrack",
+      "github_url": "https://github.com/uzzirulzz-cyber/newtrack",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nex001",
+      "github_url": "https://github.com/uzzirulzz-cyber/nex001",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nextradenew",
+      "github_url": "https://github.com/uzzirulzz-cyber/nextradenew",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "NEXTRADEPRO",
+      "github_url": "https://github.com/uzzirulzz-cyber/NEXTRADEPRO",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nxygn",
+      "github_url": "https://github.com/uzzirulzz-cyber/nxygn",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ository",
+      "github_url": "https://github.com/uzzirulzz-cyber/ository",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "patakero",
+      "github_url": "https://github.com/uzzirulzz-cyber/patakero",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "payment-gateway",
+      "github_url": "https://github.com/uzzirulzz-cyber/payment-gateway",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat-storefront",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-storefront",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "Playbeat3.9",
+      "github_url": "https://github.com/uzzirulzz-cyber/Playbeat3.9",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "Playbeat4.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/Playbeat4.0",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeataugust",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeataugust",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeattv",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeattv",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ppp",
+      "github_url": "https://github.com/uzzirulzz-cyber/ppp",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "sdfsdfsd",
+      "github_url": "https://github.com/uzzirulzz-cyber/sdfsdfsd",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "sf2322",
+      "github_url": "https://github.com/uzzirulzz-cyber/sf2322",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "spts",
+      "github_url": "https://github.com/uzzirulzz-cyber/spts",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "staff",
+      "github_url": "https://github.com/uzzirulzz-cyber/staff",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "stream",
+      "github_url": "https://github.com/uzzirulzz-cyber/stream",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "techpb",
+      "github_url": "https://github.com/uzzirulzz-cyber/techpb",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "tues1",
+      "github_url": "https://github.com/uzzirulzz-cyber/tues1",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "tuesday",
+      "github_url": "https://github.com/uzzirulzz-cyber/tuesday",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "UDL_univ-diverse",
+      "github_url": "https://github.com/uzzirulzz-cyber/UDL_univ-diverse",
+      "priority_score_not_completion": 55,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "5.5",
+      "github_url": "https://github.com/uzzirulzz-cyber/5.5",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "6565",
+      "github_url": "https://github.com/uzzirulzz-cyber/6565",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "bank-alfalah",
+      "github_url": "https://github.com/uzzirulzz-cyber/bank-alfalah",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "bonifide",
+      "github_url": "https://github.com/uzzirulzz-cyber/bonifide",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ccht",
+      "github_url": "https://github.com/uzzirulzz-cyber/ccht",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dfgdfgdf01",
+      "github_url": "https://github.com/uzzirulzz-cyber/dfgdfgdf01",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "gateways",
+      "github_url": "https://github.com/uzzirulzz-cyber/gateways",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "jazz",
+      "github_url": "https://github.com/uzzirulzz-cyber/jazz",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "jljjl111000223",
+      "github_url": "https://github.com/uzzirulzz-cyber/jljjl111000223",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "kh140",
+      "github_url": "https://github.com/uzzirulzz-cyber/kh140",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "lead-employee-engin",
+      "github_url": "https://github.com/uzzirulzz-cyber/lead-employee-engin",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "Llead",
+      "github_url": "https://github.com/uzzirulzz-cyber/Llead",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newpb01",
+      "github_url": "https://github.com/uzzirulzz-cyber/newpb01",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nnewblock",
+      "github_url": "https://github.com/uzzirulzz-cyber/nnewblock",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "onfeal",
+      "github_url": "https://github.com/uzzirulzz-cyber/onfeal",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat-inventory",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat2026",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat2026",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat202611",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat202611",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeatinvento",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeatinvento",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeattvbuzz",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeattvbuzz",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ps1",
+      "github_url": "https://github.com/uzzirulzz-cyber/ps1",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "react-router-starter-template",
+      "github_url": "https://github.com/uzzirulzz-cyber/react-router-starter-template",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "repositoryrepository",
+      "github_url": "https://github.com/uzzirulzz-cyber/repositoryrepository",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "sdf234234",
+      "github_url": "https://github.com/uzzirulzz-cyber/sdf234234",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "sdfsdf233",
+      "github_url": "https://github.com/uzzirulzz-cyber/sdfsdf233",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "wildtrack2.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/wildtrack2.0",
+      "priority_score_not_completion": 50,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "-WILDTRACK.RUN.PLACE",
+      "github_url": "https://github.com/uzzirulzz-cyber/-WILDTRACK.RUN.PLACE",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "2l",
+      "github_url": "https://github.com/uzzirulzz-cyber/2l",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "block-exchange-2.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/block-exchange-2.0",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "blockexchange-app",
+      "github_url": "https://github.com/uzzirulzz-cyber/blockexchange-app",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "brock",
+      "github_url": "https://github.com/uzzirulzz-cyber/brock",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "BrockExchangeQuest",
+      "github_url": "https://github.com/uzzirulzz-cyber/BrockExchangeQuest",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "buzz",
+      "github_url": "https://github.com/uzzirulzz-cyber/buzz",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "BUZZCRYP",
+      "github_url": "https://github.com/uzzirulzz-cyber/BUZZCRYP",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "coinbase",
+      "github_url": "https://github.com/uzzirulzz-cyber/coinbase",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "deal",
+      "github_url": "https://github.com/uzzirulzz-cyber/deal",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dealershipautomotive",
+      "github_url": "https://github.com/uzzirulzz-cyber/dealershipautomotive",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "deallbiiz",
+      "github_url": "https://github.com/uzzirulzz-cyber/deallbiiz",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dealone",
+      "github_url": "https://github.com/uzzirulzz-cyber/dealone",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "df",
+      "github_url": "https://github.com/uzzirulzz-cyber/df",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "enterprise-",
+      "github_url": "https://github.com/uzzirulzz-cyber/enterprise-",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "enterprose",
+      "github_url": "https://github.com/uzzirulzz-cyber/enterprose",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ff1",
+      "github_url": "https://github.com/uzzirulzz-cyber/ff1",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "gitplay",
+      "github_url": "https://github.com/uzzirulzz-cyber/gitplay",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "jazznew",
+      "github_url": "https://github.com/uzzirulzz-cyber/jazznew",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "LDpb23",
+      "github_url": "https://github.com/uzzirulzz-cyber/LDpb23",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "makethisdeal",
+      "github_url": "https://github.com/uzzirulzz-cyber/makethisdeal",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "new-auaigist",
+      "github_url": "https://github.com/uzzirulzz-cyber/new-auaigist",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "new-ne2",
+      "github_url": "https://github.com/uzzirulzz-cyber/new-ne2",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "new1",
+      "github_url": "https://github.com/uzzirulzz-cyber/new1",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "Newnew",
+      "github_url": "https://github.com/uzzirulzz-cyber/Newnew",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newplaybeat12",
+      "github_url": "https://github.com/uzzirulzz-cyber/newplaybeat12",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "newvariant",
+      "github_url": "https://github.com/uzzirulzz-cyber/newvariant",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "NEX",
+      "github_url": "https://github.com/uzzirulzz-cyber/NEX",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "nextradeprotop",
+      "github_url": "https://github.com/uzzirulzz-cyber/nextradeprotop",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "onestop",
+      "github_url": "https://github.com/uzzirulzz-cyber/onestop",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "PlayBeat-Digital-Storefrontfgb",
+      "github_url": "https://github.com/uzzirulzz-cyber/PlayBeat-Digital-Storefrontfgb",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat-new-b",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-new-b",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeatbroadcast",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeatbroadcast",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "MEDIA_RIGHTS_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "PLAYBEATDIGITAL.WORLD",
+      "github_url": "https://github.com/uzzirulzz-cyber/PLAYBEATDIGITAL.WORLD",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "PlaybeatPulse1",
+      "github_url": "https://github.com/uzzirulzz-cyber/PlaybeatPulse1",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeattech",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeattech",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "TBROCKEXCHANGE",
+      "github_url": "https://github.com/uzzirulzz-cyber/TBROCKEXCHANGE",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "tgg",
+      "github_url": "https://github.com/uzzirulzz-cyber/tgg",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "tracker",
+      "github_url": "https://github.com/uzzirulzz-cyber/tracker",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "ungle-of-destiny",
+      "github_url": "https://github.com/uzzirulzz-cyber/ungle-of-destiny",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "vbn",
+      "github_url": "https://github.com/uzzirulzz-cyber/vbn",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "vendure",
+      "github_url": "https://github.com/uzzirulzz-cyber/vendure",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "wold",
+      "github_url": "https://github.com/uzzirulzz-cyber/wold",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "xMag",
+      "github_url": "https://github.com/uzzirulzz-cyber/xMag",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "zubb",
+      "github_url": "https://github.com/uzzirulzz-cyber/zubb",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "zxc",
+      "github_url": "https://github.com/uzzirulzz-cyber/zxc",
+      "priority_score_not_completion": 35,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "block2.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/block2.0",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [
+        "FINANCIAL_REGULATORY_REVIEW"
+      ],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dfdffd",
+      "github_url": "https://github.com/uzzirulzz-cyber/dfdffd",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "dfgdfgdf",
+      "github_url": "https://github.com/uzzirulzz-cyber/dfgdfgdf",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "go112",
+      "github_url": "https://github.com/uzzirulzz-cyber/go112",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "hllo",
+      "github_url": "https://github.com/uzzirulzz-cyber/hllo",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "INventory",
+      "github_url": "https://github.com/uzzirulzz-cyber/INventory",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "lasyesy",
+      "github_url": "https://github.com/uzzirulzz-cyber/lasyesy",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat-crm-platform",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-crm-platform",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeat.live",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat.live",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeatadvance",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeatadvance",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "playbeatadvance1",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeatadvance1",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "vec",
+      "github_url": "https://github.com/uzzirulzz-cyber/vec",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "vustomized-",
+      "github_url": "https://github.com/uzzirulzz-cyber/vustomized-",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "wildtrack",
+      "github_url": "https://github.com/uzzirulzz-cyber/wildtrack",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "zerobytestore",
+      "github_url": "https://github.com/uzzirulzz-cyber/zerobytestore",
+      "priority_score_not_completion": 30,
+      "status": "UNVERIFIED",
+      "known_gaps": [
+        "DOCUMENT_SETUP",
+        "TEST_CRITICAL_FLOWS",
+        "VERIFY_DEPLOYMENT",
+        "BUILD_AND_AUTH_CHECK",
+        "SECRET_SCAN",
+        "LICENSE_AND_OWNERSHIP",
+        "DUPLICATE_CHECK"
+      ],
+      "risk_flags": [],
+      "build_verified": false,
+      "sale_ready": false
+    }
+  ]
+}
