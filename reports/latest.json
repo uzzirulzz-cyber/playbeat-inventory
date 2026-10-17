@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "count": 236,
+  "date": "2026-10-17",
+  "count": 238,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -688,7 +688,7 @@
     {
       "repository": "dealone1",
       "github_url": "https://github.com/uzzirulzz-cyber/dealone1",
-      "size_kb": 9605,
+      "size_kb": 9609,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 22275,
+      "size_kb": 30994,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1049,6 +1049,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "https-visual.playbeat.live-",
+      "github_url": "https://github.com/uzzirulzz-cyber/https-visual.playbeat.live-",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "Institutional",
       "github_url": "https://github.com/uzzirulzz-cyber/Institutional",
       "size_kb": 0,
@@ -1084,7 +1095,7 @@
     {
       "repository": "izoko",
       "github_url": "https://github.com/uzzirulzz-cyber/izoko",
-      "size_kb": 24166,
+      "size_kb": 24169,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1821,7 +1832,7 @@
     {
       "repository": "playbeat-crm-platform",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-crm-platform",
-      "size_kb": 431,
+      "size_kb": 432,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1854,7 +1865,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 150,
+      "size_kb": 166,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1877,6 +1888,17 @@
       "repository": "playbeat-storefront",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-storefront",
       "size_kb": 15951,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "playbeat-visual",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-visual",
+      "size_kb": 95,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2448,7 +2470,7 @@
     {
       "repository": "voiceai",
       "github_url": "https://github.com/uzzirulzz-cyber/voiceai",
-      "size_kb": 4299,
+      "size_kb": 4312,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
