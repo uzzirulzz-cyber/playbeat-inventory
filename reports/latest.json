@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "count": 238,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -468,7 +468,7 @@
     {
       "repository": "centercommand",
       "github_url": "https://github.com/uzzirulzz-cyber/centercommand",
-      "size_kb": 714,
+      "size_kb": 966,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -710,7 +710,7 @@
     {
       "repository": "df3222",
       "github_url": "https://github.com/uzzirulzz-cyber/df3222",
-      "size_kb": 15954,
+      "size_kb": 16491,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 30994,
+      "size_kb": 22791,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -853,7 +853,7 @@
     {
       "repository": "estate",
       "github_url": "https://github.com/uzzirulzz-cyber/estate",
-      "size_kb": 6610,
+      "size_kb": 6613,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1095,7 +1095,7 @@
     {
       "repository": "izoko",
       "github_url": "https://github.com/uzzirulzz-cyber/izoko",
-      "size_kb": 24169,
+      "size_kb": 24488,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1249,7 +1249,7 @@
     {
       "repository": "livetv",
       "github_url": "https://github.com/uzzirulzz-cyber/livetv",
-      "size_kb": 2637,
+      "size_kb": 2638,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1271,7 +1271,7 @@
     {
       "repository": "llivesports",
       "github_url": "https://github.com/uzzirulzz-cyber/llivesports",
-      "size_kb": 610,
+      "size_kb": 886,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1832,7 +1832,7 @@
     {
       "repository": "playbeat-crm-platform",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-crm-platform",
-      "size_kb": 432,
+      "size_kb": 472,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1865,7 +1865,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 166,
+      "size_kb": 186,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1887,7 +1887,7 @@
     {
       "repository": "playbeat-storefront",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-storefront",
-      "size_kb": 15951,
+      "size_kb": 15953,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
