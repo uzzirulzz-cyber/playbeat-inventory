@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "count": 238,
+  "date": "2026-10-19",
+  "count": 240,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 22791,
+      "size_kb": 33564,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1346,6 +1346,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "marketing",
+      "github_url": "https://github.com/uzzirulzz-cyber/marketing",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "metapi",
       "github_url": "https://github.com/uzzirulzz-cyber/metapi",
       "size_kb": 0,
@@ -1865,7 +1876,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 186,
+      "size_kb": 200,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2168,6 +2179,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "qworker",
+      "github_url": "https://github.com/uzzirulzz-cyber/qworker",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
       "sale_ready": "NO - requires human verification"
     },
     {
