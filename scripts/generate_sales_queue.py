@@ -3,7 +3,7 @@ import csv,json,pathlib,datetime
 ROOT=pathlib.Path("reports")
 report=json.loads((ROOT/"latest.json").read_text(encoding="utf-8"))
 focus=[
-("PlayBeat Digital","izoko","Digital commerce storefront and administrative tooling","USD 34,500 provisional"),
+("PlayBeat Digital","izoko","Digital commerce storefront and administrative tooling","Price on request"),
 ("PlayBeat Live","playbeat.live","Streaming catalog and player software; media rights excluded","Offers invited"),
 ("MakeThisDeal","makethisdeal.biz","Deals and business marketplace codebase","Offers invited"),
 ("MagXTV","magxtv.click","Sports portal interface; broadcast rights excluded","Offers invited"),
