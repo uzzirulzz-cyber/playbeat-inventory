@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "count": 240,
+  "date": "2026-10-20",
+  "count": 241,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -149,7 +149,7 @@
     {
       "repository": "adfmenwew",
       "github_url": "https://github.com/uzzirulzz-cyber/adfmenwew",
-      "size_kb": 952,
+      "size_kb": 1287,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -611,7 +611,7 @@
     {
       "repository": "dashboard_admin",
       "github_url": "https://github.com/uzzirulzz-cyber/dashboard_admin",
-      "size_kb": 51161,
+      "size_kb": 51187,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 33564,
+      "size_kb": 33685,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -925,6 +925,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "gateway",
+      "github_url": "https://github.com/uzzirulzz-cyber/gateway",
+      "size_kb": 58,
+      "manifest": true,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
       "sale_ready": "NO - requires human verification"
     },
     {
@@ -1095,7 +1106,7 @@
     {
       "repository": "izoko",
       "github_url": "https://github.com/uzzirulzz-cyber/izoko",
-      "size_kb": 24488,
+      "size_kb": 24890,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1854,7 +1865,7 @@
     {
       "repository": "Playbeat-Digital-apk",
       "github_url": "https://github.com/uzzirulzz-cyber/Playbeat-Digital-apk",
-      "size_kb": 1488,
+      "size_kb": 1563,
       "manifest": false,
       "readme": false,
       "test_indicator": false,
@@ -1876,7 +1887,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 200,
+      "size_kb": 213,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
