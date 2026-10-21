@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "count": 241,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -710,7 +710,7 @@
     {
       "repository": "df3222",
       "github_url": "https://github.com/uzzirulzz-cyber/df3222",
-      "size_kb": 16491,
+      "size_kb": 16623,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 33685,
+      "size_kb": 44938,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1854,7 +1854,7 @@
     {
       "repository": "playbeat-crm-platform",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-crm-platform",
-      "size_kb": 472,
+      "size_kb": 475,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1887,7 +1887,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 213,
+      "size_kb": 237,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
