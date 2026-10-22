@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "count": 241,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 44938,
+      "size_kb": 24200,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1557,7 +1557,7 @@
     {
       "repository": "newpb01",
       "github_url": "https://github.com/uzzirulzz-cyber/newpb01",
-      "size_kb": 125,
+      "size_kb": 164,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1854,7 +1854,7 @@
     {
       "repository": "playbeat-crm-platform",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-crm-platform",
-      "size_kb": 475,
+      "size_kb": 478,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1887,7 +1887,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 237,
+      "size_kb": 253,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1909,7 +1909,7 @@
     {
       "repository": "playbeat-storefront",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-storefront",
-      "size_kb": 15953,
+      "size_kb": 15978,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
