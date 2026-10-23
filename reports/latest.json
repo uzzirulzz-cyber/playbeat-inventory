@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "count": 241,
+  "date": "2026-10-23",
+  "count": 243,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -809,7 +809,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 24200,
+      "size_kb": 35935,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1173,6 +1173,17 @@
       "repository": "kh140",
       "github_url": "https://github.com/uzzirulzz-cyber/kh140",
       "size_kb": 37,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "kimi-playbeat",
+      "github_url": "https://github.com/uzzirulzz-cyber/kimi-playbeat",
+      "size_kb": 1488,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1887,12 +1898,23 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 253,
+      "size_kb": 265,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "playbeat-kimi",
+      "github_url": "https://github.com/uzzirulzz-cyber/playbeat-kimi",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
       "sale_ready": "NO - requires human verification"
     },
     {
