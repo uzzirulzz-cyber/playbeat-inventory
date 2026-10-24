@@ -1,6 +1,6 @@
 {
-  "source_audit_date": "2026-10-23",
-  "total_manifest_candidates": 145,
+  "source_audit_date": "2026-10-24",
+  "total_manifest_candidates": 146,
   "note": "Priority scores are not percent complete. Duplicates, builds, correctness and rights remain unverified.",
   "candidates": [
     {
@@ -1494,6 +1494,18 @@
     {
       "repository": "vendure",
       "github_url": "https://github.com/uzzirulzz-cyber/vendure",
+      "priority_score_not_completion": 35,
+      "triage_band": "REVIEW",
+      "status": "UNVERIFIED",
+      "known_gaps": "WRITE_SETUP_AND_FEATURE_DOCUMENTATION;VERIFY_TEST_SUITE_AND_RUN_CRITICAL_FLOWS;VERIFY_DEPLOYMENT_AND_CONFIG;BUILD_AND_AUTH_CHECK;SECRET_SCAN;OWNERSHIP_AND_LICENSE_REVIEW;VERIFY_DUPLICATES",
+      "risk_flags": "",
+      "next_step": "Build in isolated CI; fix failures on reviewed branch; verify demo and rights before listing",
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "voltaire",
+      "github_url": "https://github.com/uzzirulzz-cyber/voltaire",
       "priority_score_not_completion": 35,
       "triage_band": "REVIEW",
       "status": "UNVERIFIED",
