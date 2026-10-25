@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "count": 246,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -831,7 +831,7 @@
     {
       "repository": "ebuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/ebuzz",
-      "size_kb": 36419,
+      "size_kb": 48925,
       "manifest": false,
       "readme": true,
       "test_indicator": false,
@@ -1172,7 +1172,7 @@
     {
       "repository": "jhkl",
       "github_url": "https://github.com/uzzirulzz-cyber/jhkl",
-      "size_kb": 41,
+      "size_kb": 43,
       "manifest": false,
       "readme": false,
       "test_indicator": false,
@@ -1920,7 +1920,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 274,
+      "size_kb": 286,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
