@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "count": 246,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -1920,7 +1920,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 130,
+      "size_kb": 133,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2437,7 +2437,7 @@
     {
       "repository": "tracker",
       "github_url": "https://github.com/uzzirulzz-cyber/tracker",
-      "size_kb": 588,
+      "size_kb": 752,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
