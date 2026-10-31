@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "count": 247,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -1018,7 +1018,7 @@
     {
       "repository": "go112",
       "github_url": "https://github.com/uzzirulzz-cyber/go112",
-      "size_kb": 343,
+      "size_kb": 387,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -1931,7 +1931,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 164,
+      "size_kb": 179,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
