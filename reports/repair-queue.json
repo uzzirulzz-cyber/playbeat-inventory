@@ -1,6 +1,6 @@
 {
-  "source_audit_date": "2026-10-31",
-  "total_manifest_candidates": 146,
+  "source_audit_date": "2026-11-01",
+  "total_manifest_candidates": 147,
   "note": "Priority scores are not percent complete. Duplicates, builds, correctness and rights remain unverified.",
   "candidates": [
     {
@@ -102,6 +102,18 @@
     {
       "repository": "augguest22",
       "github_url": "https://github.com/uzzirulzz-cyber/augguest22",
+      "priority_score_not_completion": 55,
+      "triage_band": "HIGH_PRIORITY",
+      "status": "UNVERIFIED",
+      "known_gaps": "VERIFY_TEST_SUITE_AND_RUN_CRITICAL_FLOWS;VERIFY_DEPLOYMENT_AND_CONFIG;BUILD_AND_AUTH_CHECK;SECRET_SCAN;OWNERSHIP_AND_LICENSE_REVIEW;VERIFY_DUPLICATES",
+      "risk_flags": "",
+      "next_step": "Build in isolated CI; fix failures on reviewed branch; verify demo and rights before listing",
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "bbgt",
+      "github_url": "https://github.com/uzzirulzz-cyber/bbgt",
       "priority_score_not_completion": 55,
       "triage_band": "HIGH_PRIORITY",
       "status": "UNVERIFIED",
