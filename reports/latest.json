@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "count": 247,
+  "date": "2026-11-01",
+  "count": 249,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -257,6 +257,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "bbgt",
+      "github_url": "https://github.com/uzzirulzz-cyber/bbgt",
+      "size_kb": 45486,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "bbknew",
       "github_url": "https://github.com/uzzirulzz-cyber/bbknew",
       "size_kb": 0,
@@ -369,7 +380,7 @@
     {
       "repository": "bonifide",
       "github_url": "https://github.com/uzzirulzz-cyber/bonifide",
-      "size_kb": 274,
+      "size_kb": 319,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -534,7 +545,7 @@
     {
       "repository": "coinbase",
       "github_url": "https://github.com/uzzirulzz-cyber/coinbase",
-      "size_kb": 534,
+      "size_kb": 669,
       "manifest": true,
       "readme": false,
       "test_indicator": false,
@@ -884,6 +895,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "fdg45",
+      "github_url": "https://github.com/uzzirulzz-cyber/fdg45",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "ff1",
       "github_url": "https://github.com/uzzirulzz-cyber/ff1",
       "size_kb": 75026,
@@ -1205,7 +1227,7 @@
     {
       "repository": "kimi-playbeat",
       "github_url": "https://github.com/uzzirulzz-cyber/kimi-playbeat",
-      "size_kb": 1488,
+      "size_kb": 1526,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1931,7 +1953,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 179,
+      "size_kb": 187,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2206,7 +2228,7 @@
     {
       "repository": "playbeattvbuzz",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeattvbuzz",
-      "size_kb": 349,
+      "size_kb": 417,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
