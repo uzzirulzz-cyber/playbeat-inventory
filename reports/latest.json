@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "count": 250,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -1799,7 +1799,7 @@
     {
       "repository": "OmniRoute",
       "github_url": "https://github.com/uzzirulzz-cyber/OmniRoute",
-      "size_kb": 448896,
+      "size_kb": 3044810,
       "manifest": true,
       "readme": true,
       "test_indicator": true,
@@ -1964,7 +1964,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 226,
+      "size_kb": 235,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
