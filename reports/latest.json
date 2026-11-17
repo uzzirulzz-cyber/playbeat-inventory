@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "count": 250,
+  "date": "2026-11-17",
+  "count": 251,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -1676,6 +1676,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "newplaybeatdigi",
+      "github_url": "https://github.com/uzzirulzz-cyber/newplaybeatdigi",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "newtrack",
       "github_url": "https://github.com/uzzirulzz-cyber/newtrack",
       "size_kb": 2046,
@@ -1964,7 +1975,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 235,
+      "size_kb": 251,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
