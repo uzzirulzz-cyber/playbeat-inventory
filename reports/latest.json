@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "count": 251,
+  "date": "2026-11-19",
+  "count": 252,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -595,6 +595,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "Creed",
+      "github_url": "https://github.com/uzzirulzz-cyber/Creed",
+      "size_kb": 10008,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
       "sale_ready": "NO - requires human verification"
     },
     {
@@ -1975,7 +1986,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 264,
+      "size_kb": 280,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
