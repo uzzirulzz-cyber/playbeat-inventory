@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "count": 252,
+  "date": "2026-11-20",
+  "count": 253,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -600,7 +600,7 @@
     {
       "repository": "Creed",
       "github_url": "https://github.com/uzzirulzz-cyber/Creed",
-      "size_kb": 10008,
+      "size_kb": 10152,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1172,7 +1172,7 @@
     {
       "repository": "izoko",
       "github_url": "https://github.com/uzzirulzz-cyber/izoko",
-      "size_kb": 24968,
+      "size_kb": 25051,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1986,7 +1986,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 280,
+      "size_kb": 289,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2443,6 +2443,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "storefulhistorylnew",
+      "github_url": "https://github.com/uzzirulzz-cyber/storefulhistorylnew",
+      "size_kb": 10396,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
       "sale_ready": "NO - requires human verification"
     },
     {
