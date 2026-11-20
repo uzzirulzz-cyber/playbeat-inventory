@@ -1,6 +1,6 @@
 {
-  "source_audit_date": "2026-11-19",
-  "total_manifest_candidates": 149,
+  "source_audit_date": "2026-11-20",
+  "total_manifest_candidates": 150,
   "note": "Priority scores are not percent complete. Duplicates, builds, correctness and rights remain unverified.",
   "candidates": [
     {
@@ -594,6 +594,18 @@
     {
       "repository": "staff",
       "github_url": "https://github.com/uzzirulzz-cyber/staff",
+      "priority_score_not_completion": 55,
+      "triage_band": "HIGH_PRIORITY",
+      "status": "UNVERIFIED",
+      "known_gaps": "VERIFY_TEST_SUITE_AND_RUN_CRITICAL_FLOWS;VERIFY_DEPLOYMENT_AND_CONFIG;BUILD_AND_AUTH_CHECK;SECRET_SCAN;OWNERSHIP_AND_LICENSE_REVIEW;VERIFY_DUPLICATES",
+      "risk_flags": "",
+      "next_step": "Build in isolated CI; fix failures on reviewed branch; verify demo and rights before listing",
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "storefulhistorylnew",
+      "github_url": "https://github.com/uzzirulzz-cyber/storefulhistorylnew",
       "priority_score_not_completion": 55,
       "triage_band": "HIGH_PRIORITY",
       "status": "UNVERIFIED",
