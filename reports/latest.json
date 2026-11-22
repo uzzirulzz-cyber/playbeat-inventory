@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "count": 255,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
@@ -996,12 +996,12 @@
     {
       "repository": "full",
       "github_url": "https://github.com/uzzirulzz-cyber/full",
-      "size_kb": 0,
-      "manifest": false,
-      "readme": false,
+      "size_kb": 42803,
+      "manifest": true,
+      "readme": true,
       "test_indicator": false,
       "deploy_workflow_indicator": false,
-      "completion": "EMPTY",
+      "completion": "UNVERIFIED",
       "sale_ready": "NO - requires human verification"
     },
     {
@@ -1997,7 +1997,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 300,
+      "size_kb": 173,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
