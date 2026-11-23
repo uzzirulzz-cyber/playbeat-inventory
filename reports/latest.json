@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "count": 255,
+  "date": "2026-11-23",
+  "count": 256,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -177,6 +177,17 @@
       "test_indicator": false,
       "deploy_workflow_indicator": false,
       "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "admin",
+      "github_url": "https://github.com/uzzirulzz-cyber/admin",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
       "sale_ready": "NO - requires human verification"
     },
     {
@@ -996,7 +1007,7 @@
     {
       "repository": "full",
       "github_url": "https://github.com/uzzirulzz-cyber/full",
-      "size_kb": 42803,
+      "size_kb": 56706,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -1997,7 +2008,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 173,
+      "size_kb": 176,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2470,7 +2481,7 @@
     {
       "repository": "storefulhistorylnew",
       "github_url": "https://github.com/uzzirulzz-cyber/storefulhistorylnew",
-      "size_kb": 13586,
+      "size_kb": 13732,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
