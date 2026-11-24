@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "count": 256,
+  "date": "2026-11-24",
+  "count": 257,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -1676,6 +1676,17 @@
       "sale_ready": "NO - requires human verification"
     },
     {
+      "repository": "newplay21",
+      "github_url": "https://github.com/uzzirulzz-cyber/newplay21",
+      "size_kb": 0,
+      "manifest": false,
+      "readme": false,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "EMPTY",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
       "repository": "newplaybeat",
       "github_url": "https://github.com/uzzirulzz-cyber/newplaybeat",
       "size_kb": 0,
@@ -2008,7 +2019,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 176,
+      "size_kb": 191,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
