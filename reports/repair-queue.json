@@ -1,6 +1,6 @@
 {
-  "source_audit_date": "2026-11-25",
-  "total_manifest_candidates": 153,
+  "source_audit_date": "2026-11-26",
+  "total_manifest_candidates": 154,
   "note": "Priority scores are not percent complete. Duplicates, builds, correctness and rights remain unverified.",
   "candidates": [
     {
@@ -738,6 +738,18 @@
     {
       "repository": "6565",
       "github_url": "https://github.com/uzzirulzz-cyber/6565",
+      "priority_score_not_completion": 50,
+      "triage_band": "REVIEW",
+      "status": "UNVERIFIED",
+      "known_gaps": "VERIFY_TEST_SUITE_AND_RUN_CRITICAL_FLOWS;VERIFY_DEPLOYMENT_AND_CONFIG;BUILD_AND_AUTH_CHECK;SECRET_SCAN;OWNERSHIP_AND_LICENSE_REVIEW;VERIFY_DUPLICATES",
+      "risk_flags": "",
+      "next_step": "Build in isolated CI; fix failures on reviewed branch; verify demo and rights before listing",
+      "build_verified": false,
+      "sale_ready": false
+    },
+    {
+      "repository": "adminplaybeat.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/adminplaybeat.0",
       "priority_score_not_completion": 50,
       "triage_band": "REVIEW",
       "status": "UNVERIFIED",
