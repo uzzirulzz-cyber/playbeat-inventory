@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "count": 259,
+  "date": "2026-11-26",
+  "count": 260,
   "method": "Metadata/file-presence triage only. No build, tests, ownership or legal transfer verified.",
   "repositories": [
     {
@@ -193,7 +193,7 @@
     {
       "repository": "admin1121-",
       "github_url": "https://github.com/uzzirulzz-cyber/admin1121-",
-      "size_kb": 3870,
+      "size_kb": 5682,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -205,6 +205,17 @@
       "repository": "admin12",
       "github_url": "https://github.com/uzzirulzz-cyber/admin12",
       "size_kb": 19840,
+      "manifest": true,
+      "readme": true,
+      "test_indicator": false,
+      "deploy_workflow_indicator": false,
+      "completion": "UNVERIFIED",
+      "sale_ready": "NO - requires human verification"
+    },
+    {
+      "repository": "adminplaybeat.0",
+      "github_url": "https://github.com/uzzirulzz-cyber/adminplaybeat.0",
+      "size_kb": 190,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
@@ -2041,7 +2052,7 @@
     {
       "repository": "playbeat-inventory",
       "github_url": "https://github.com/uzzirulzz-cyber/playbeat-inventory",
-      "size_kb": 205,
+      "size_kb": 213,
       "manifest": true,
       "readme": true,
       "test_indicator": false,
