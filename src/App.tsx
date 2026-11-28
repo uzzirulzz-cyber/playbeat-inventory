@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { INITIAL_PRODUCTS } from './data/mockProducts';
 import type { ProductBadge, ProductCatalogItem, ProductOffer, ProductStatus, ProductVariation, StockStatus } from './types';
 import { ArrowRight, BadgeCheck, BarChart3, Bell, Boxes, Calculator, Check, ChevronRight, Copy, CreditCard, Eye, Image as ImageIcon, LayoutDashboard, LogOut, Package, PencilLine, Plus, Search, ShieldCheck, ShoppingCart, Star, Trash2, UploadCloud, Users, Wand2, X } from 'lucide-react';
+import Storefront from './components/Storefront';
 
 const ADMIN_EMAIL = 'admin@playbeat.digital';
 const ADMIN_PASSWORD = 'playbeat1122';
@@ -11,7 +12,7 @@ const BADGE_OPTIONS: ProductBadge[] = ['NEW', 'HOT', 'TRENDING', 'BEST SELLER', 
 
 const formatPrice = (amount: number, currency: 'USD' | 'PKR' = 'USD') => {
   if (currency === 'PKR') {
-    return `₨${(amount * 280).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`;
+    return `Rs.${(amount * 280).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`;
   }
   return `$${amount.toFixed(2)}`;
 };
@@ -90,10 +91,10 @@ const normalizeProduct = (product: ProductOffer, index: number): ProductCatalogI
 const seededProducts = INITIAL_PRODUCTS.map(normalizeProduct);
 
 const initialLanding = {
-  heroTitle: 'PlayBeat Digital Premium Tech Store',
-  heroSubtitle: 'Built for creators, gamers, and digital-first brands that want premium devices and polished everyday experiences.',
-  ctaPrimary: 'Shop Best Sellers',
-  ctaSecondary: 'View New Arrivals',
+  heroTitle: 'Your World of Digital Possibilities',
+  heroSubtitle: 'All in One Place. Genuine Products. Instant Delivery. Best Rates.',
+  ctaPrimary: 'Explore Products',
+  ctaSecondary: 'Browse Categories',
   heroImage: DEFAULT_HERO_BG,
   banners: [
     { id: 'b1', title: 'Summer drops', text: 'Up to 30% off premium tech bundles.', visible: true },
@@ -387,6 +388,15 @@ export default function App() {
             </div>
           </div>
         </div>
+      ) : currentView === 'storefront' ? (
+        <Storefront
+          products={products}
+          landing={landing}
+          formatPrice={formatPrice}
+          cartCount={cartCount}
+          onBuy={(product) => purchaseProduct(product, 1)}
+          onOpenDashboard={() => setCurrentView('manager')}
+        />
       ) : (
         <div className="dashboard-shell">
           <header className="topbar">
@@ -399,7 +409,7 @@ export default function App() {
             </div>
 
             <nav className="main-nav">
-              <button className={currentView === 'storefront' ? 'nav-item active' : 'nav-item'} onClick={() => setCurrentView('storefront')}>
+              <button className={(currentView as string) === 'storefront' ? 'nav-item active' : 'nav-item'} onClick={() => setCurrentView('storefront')}>
                 Storefront
               </button>
               <button className={currentView === 'manager' ? 'nav-item active' : 'nav-item'} onClick={() => setCurrentView('manager')}>
@@ -423,142 +433,6 @@ export default function App() {
           </header>
 
           <main className="content-layout">
-            {currentView === 'storefront' && (
-              <>
-                <section className="hero-banner">
-                  <div className="hero-copy">
-                    <span className="eyebrow white">PlayBeat Digital</span>
-                    <h1>{landing.heroTitle}</h1>
-                    <p>{landing.heroSubtitle}</p>
-                    <div className="cta-row">
-                      <button className="primary-btn">{landing.ctaPrimary}</button>
-                      <button className="secondary-btn">{landing.ctaSecondary}</button>
-                    </div>
-                  </div>
-                  <div className="hero-visual" style={{ backgroundImage: `url(${landing.heroImage})` }} />
-                </section>
-
-                <section className="promo-row">
-                  {landing.banners.map((banner) => (
-                    <div key={banner.id} className="promo-card">
-                      <BadgeCheck size={16} />
-                      <div>
-                        <strong>{banner.title}</strong>
-                        <p>{banner.text}</p>
-                      </div>
-                    </div>
-                  ))}
-                </section>
-
-                <section className="stats-grid">
-                  <div className="stat-card">
-                    <Package size={18} />
-                    <div>
-                      <strong>{products.length}</strong>
-                      <span>Products</span>
-                    </div>
-                  </div>
-                  <div className="stat-card">
-                    <Users size={18} />
-                    <div>
-                      <strong>{featuredProducts.length}</strong>
-                      <span>Featured</span>
-                    </div>
-                  </div>
-                  <div className="stat-card">
-                    <BarChart3 size={18} />
-                    <div>
-                      <strong>{totalInventory}</strong>
-                      <span>Units</span>
-                    </div>
-                  </div>
-                  <div className="stat-card">
-                    <ShieldCheck size={18} />
-                    <div>
-                      <strong>99.9%</strong>
-                      <span>Uptime</span>
-                    </div>
-                  </div>
-                </section>
-
-                <section className="products-section">
-                  <div className="section-header">
-                    <div>
-                      <p className="eyebrow">Trending now</p>
-                      <h2>Featured products</h2>
-                    </div>
-                    <button className="secondary-btn">View all</button>
-                  </div>
-
-                  <div className="product-grid">
-                    {featuredProducts.map((product) => (
-                      <article key={product.id} className="product-card">
-                        <div className="product-media" style={{ backgroundImage: `url(${product.gallery[0] || product.imageUrl})` }}>
-                          {product.badges.length ? (
-                            <div className="badge-strip">
-                              {product.badges.map((badge) => (
-                                <span key={badge} className="mini-badge">{badge}</span>
-                              ))}
-                            </div>
-                          ) : null}
-                        </div>
-                        <div className="product-body">
-                          <div className="price-row">
-                            <div>
-                              <div className="product-title">{product.title}</div>
-                              <div className="review-row">
-                                <Star size={14} fill="currentColor" />
-                                <span>4.9 • 278 reviews</span>
-                              </div>
-                            </div>
-                            <div className="price-stack">
-                              <strong>{formatPrice(product.basePrice)}</strong>
-                              <span>{formatPrice(product.compareAtPrice)}</span>
-                            </div>
-                          </div>
-
-                          <p>{product.shortDescription}</p>
-
-                          <div className="stock-row">
-                            <span className={`status-pill ${getStockTone(product.stockStatus)}`}>{product.stockStatus}</span>
-                            <span className="stock-meta">{product.stock} in stock</span>
-                          </div>
-
-                          <div className="card-actions">
-                            <button className="secondary-btn small">Add to cart</button>
-                            <button className="primary-btn small" onClick={() => purchaseProduct(product, 1)}>Buy Now</button>
-                          </div>
-                        </div>
-                      </article>
-                    ))}
-                  </div>
-                </section>
-
-                <section className="products-section soft">
-                  <div className="section-header">
-                    <div>
-                      <p className="eyebrow">Curated</p>
-                      <h2>Trending picks</h2>
-                    </div>
-                  </div>
-
-                  <div className="mini-table">
-                    {trendingProducts.slice(0, 4).map((product) => (
-                      <div key={product.id} className="mini-row">
-                        <div className="mini-thumb" style={{ backgroundImage: `url(${product.gallery[0] || product.imageUrl})` }} />
-                        <div className="mini-body">
-                          <strong>{product.title}</strong>
-                          <span>{product.category}</span>
-                        </div>
-                        <div className="mini-price">{formatPrice(product.basePrice)}</div>
-                        <button className="secondary-btn small" onClick={() => purchaseProduct(product, 1)}>Quick buy</button>
-                      </div>
-                    ))}
-                  </div>
-                </section>
-              </>
-            )}
-
             {currentView === 'manager' && (
               <section className="manager-layout">
                 <div className="manager-topbar">
